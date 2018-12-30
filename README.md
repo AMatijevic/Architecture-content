@@ -8,3 +8,5 @@
 * [Vertical slice architecture with MVC](https://github.com/jbogard/ContosoUniversityDotNetCore) **JBogard**
 * [EFCore2 features for DDD](https://github.com/julielerman/EFCore2DDD/tree/AdvancedPatterns) **JulieLerman**
 
+### WEB
+[Microsoft architecture-guides](https://dotnet.microsoft.com/learn/dotnet/architecture-guides) **Microsoft**
