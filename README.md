@@ -1,5 +1,3 @@
-# Architecture
-
 ### REPOSITORIES
 
 * [DDD guestbook with CleanArchitecture](https://github.com/ardalis/ddd-guestbook) **Ardalis**
