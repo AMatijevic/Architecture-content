@@ -6,6 +6,7 @@
 * [Vertical slice architecture with MVC](https://github.com/jbogard/ContosoUniversityDotNetCore) **JBogard**
 * [Layered application architecture](https://github.com/dotnet-architecture/eShopOnWeb) **Microsoft**
 * [Bosko Architecture](https://github.com/bokoskokos/PatternTest) **Bokoskokos**
+* [Clean Architecture Solution Template](https://github.com/jasontaylordev/CleanArchitecture) **jasontaylordev**
 
 ### WEB
 [Microsoft architecture-guides](https://dotnet.microsoft.com/learn/dotnet/architecture-guides) **Microsoft**
