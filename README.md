@@ -11,5 +11,10 @@
 ### WEB
 [Microsoft architecture-guides](https://dotnet.microsoft.com/learn/dotnet/architecture-guides) **Microsoft**
 
+### FRAMEWORK
+[Web application framework for ASP.NET CORE](https://abp.io/)
+
 ### VIDEO
 [Architecture Workshop July 2018](https://www.youtube.com/playlist?list=PLVMqA0_8O85x-aurj1KphxUeWTeTlYkGM) **Jeffrey T. Fritz**
+
+
