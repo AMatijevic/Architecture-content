@@ -16,4 +16,4 @@
 
 ### VIDEO
 [Architecture Workshop July 2018](https://www.youtube.com/playlist?list=PLVMqA0_8O85x-aurj1KphxUeWTeTlYkGM) **Jeffrey T. Fritz**
-[Microservices-DotNet](https://channel9.msdn.com/Shows/lets-learn-dotnet/Lets-Learn-DotNet-Microservices)
+[Microservices-DotNet](https://channel9.msdn.com/Shows/lets-learn-dotnet/Lets-Learn-DotNet-Microservices) **Microsoft Channel 9**
